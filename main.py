@@ -11,7 +11,7 @@ No, so lets append a number that is
 """
 
 if __name__ == '__main__':
-    items=[2, 3, 25, 9]
+    items=[2, 36, 3, 25, 9]
     divisor=12
 
     for item in items:
